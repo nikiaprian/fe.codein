@@ -28,7 +28,7 @@ const listTeam = [
     linkLinkedin: 'https://www.linkedin.com/in/nicolas-sanjaya/',
   },
   {
-    name: 'Rachmat Agung Ananda',
+    name: 'Rachmat Agung Anandaa',
     role: 'Backend Developer',
     image: rachmat,
     github: github,

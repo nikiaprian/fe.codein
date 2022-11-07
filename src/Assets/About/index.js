@@ -19,7 +19,7 @@ const listTeam = () => [
             linkLinkedin: ''
         },
         {
-            name: 'Rachmat Agung Ananda',
+            name: 'Rachmat Agung Anandaa',
             role: 'Backend Developer',
             image: rachmat,
             github: github,
